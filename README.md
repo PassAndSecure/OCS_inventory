@@ -1,4 +1,4 @@
-# OCS Inventory NG Resources
+# OCS Inventory NG 
 
 ## À propos
 
