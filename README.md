@@ -4,7 +4,7 @@
 
 Ce dépôt contient les ressources nécessaires pour déployer et utiliser OCS Inventory NG, notamment des agents pour différents systèmes d'exploitation et des outils pour faciliter le déploiement. Nous partageons ces ressources dans le but d'aider la communauté et de faciliter l'accès à ces outils.
 
-Pour plus d'informations et d'autres outils de gestion d'inventaire, visitez notre site web OCS Inventory.
+Pour plus d'informations et d'autres outils de gestion d'inventaire, visitez notre site web [PassAndSecure](https://passandsecure.fr).
 
 ## Téléchargement
 
@@ -61,3 +61,23 @@ Nous sommes une communauté bienveillante et ouverte à toute contribution. Si v
 Bien que nous ne fournissions pas de support officiel, vous pouvez ouvrir un problème (issue) dans ce dépôt si vous rencontrez des difficultés avec les ressources. La communauté pourrait être en mesure de vous aider.
 
 Merci de votre intérêt pour OCS Inventory NG et pour votre participation à la communauté !
+
+         _ (`-.     ('-.       .-')      .-')             ('-.          .-') _   _ .-') _           .-')       ('-.                             _  .-')      ('-.                                          
+        ( (OO  )   ( OO ).-.  ( OO ).   ( OO ).          ( OO ).-.     ( OO ) ) ( (  OO) )         ( OO ).   _(  OO)                           ( \( -O )   _(  OO)                                         
+        _.`     \   / . --. / (_)---\_) (_)---\_)         / . --. / ,--./ ,--,'   \     .'_        (_)---\_) (,------.    .-----.   ,--. ,--.    ,------.  (,------.                                        
+        (__...--''   | \-.  \  /    _ |  /    _ |          | \-.  \  |   \ |  |\   ,`'--..._)       /    _ |   |  .---'   '  .--./   |  | |  |    |   /`. '  |  .---'                                        
+        |  /  | | .-'-'  |  | \  :` `.  \  :` `.        .-'-'  |  | |    \|  | )  |  |  \  '       \  :` `.   |  |       |  |('-.   |  | | .-')  |  /  | |  |  |                                            
+        |  |_.' |  \| |_.'  |  '..`''.)  '..`''.)        \| |_.'  | |  .     |/   |  |   ' |        '..`''.) (|  '--.   /_) |OO  )  |  |_|( OO ) |  |_.' | (|  '--.                                         
+        |  .___.'   |  .-.  | .-._)   \ .-._)   \         |  .-.  | |  |\    |    |  |   / :       .-._)   \  |  .--'   ||  |`-'|   |  | | `-' / |  .  '.'  |  .--'                                         
+        |  |        |  | |  | \       / \       /         |  | |  | |  | \   |    |  '--'  /       \       /  |  `---. (_'  '--'\  ('  '-'(_.-'  |  |\  \   |  `---.                                        
+        `--'        `--' `--'  `-----'   `-----'          `--' `--' `--'  `--'    `-------'         `-----'   `------'    `-----'    `-----'     `--' '--'  `------'                                        
+         _ .-') _     ('-.     _ (`-.               .-') _         .-. .-')                    .-. .-')                                         ('-.         .-') _  
+        ( (  OO) )  _(  OO)   ( (OO  )             (  OO) )        \  ( OO )                   \  ( OO )                                       ( OO ).-.    ( OO ) ) 
+         \     .'_ (,------. _.`     \ .-'),-----. /     '._        ;-----.\  ,--.   ,--.      ,--. ,--.  ,-.-')  ,--.      ,--.      ,-.-')   / . --. /,--./ ,--,'  
+         ,`'--..._) |  .---'(__...--''( OO'  .-.  '|'--...__)       | .-.  |   \  `.'  /       |  .'   /  |  |OO) |  |.-')  |  |.-')  |  |OO)  | \-.  \ |   \ |  |\  
+         |  |  \  ' |  |     |  /  | |/   |  | |  |'--.  .--'       | '-' /_).-')     /        |      /,  |  |  \ |  | OO ) |  | OO ) |  |  \.-'-'  |  ||    \|  | ) 
+         |  |   ' |(|  '--.  |  |_.' |\_) |  |\|  |   |  |          | .-. `.(OO  \   /         |     ' _) |  |(_/ |  |`-' | |  |`-' | |  |(_/ \| |_.'  ||  .     |/  
+         |  |   / : |  .--'  |  .___.'  \ |  | |  |   |  |          | |  \  ||   /  /\_        |  .   \  ,|  |_.'(|  '---.'(|  '---.',|  |_.'  |  .-.  ||  |\    |   
+         |  '--'  / |  `---. |  |        `'  '-'  '   |  |          | '--'  /`-./  /.__)       |  |\   \(_|  |    |      |  |      |(_|  |     |  | |  ||  | \   |   
+         `-------'  `------' `--'          `-----'    `--'          `------'   `--'            `--' '--'  `--'    `------'  `------'  `--'     `--' `--'`--'  `--'         
+
